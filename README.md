@@ -1,7 +1,7 @@
 # Reporting & Monitoring
 
 ## More about the Project
-
+- Microsoft Power BI (Business Intelligence) is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights
 ## Manual for the Project
 
 ## Phase 1 - GitHub Administration
