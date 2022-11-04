@@ -44,6 +44,7 @@ appropriately mapped, where necessary.
 - Dhuvin Shah. (2021, Nov 22).<i> How to Export filtered data to Excel from Power BI button using Power Automate?</i> [Video]. YouTube https://youtu.be/sd3YCjN8Co4
 - Lean Excel Solutions. (2021, Nov 27).<i> Sales Dashboard in Power BI | Power BI Dashboard</i>. [Video]. YouTube https://youtu.be/CGgXHsD19Ek
 - Eye on Tech. (2020, Jun 3).<i> What is Business Intelligence (BI) and why is it Important?</i>. [Video]. YouTube https://youtu.be/jtCsoEw3Ykg
+- Bizz Intelligence. (2021, Aug 2). <i> CountIF & CountIfs in PowerBI using DAX - 3 Methods. </i>. [Video]. YouTube https://youtu.be/4u5Xnq2nbSU
 - Ferrari, A. and Russo, M., 2016.<i> Introducing Microsoft Power BI.</i> Microsoft Press.
 - Webb, C. and Crossjoin Consulting Limited, 2014.<i> Power query for power BI and Excel (Vol. 1)</i>. Apress.
 - Aspin, A., 2016. Pro Power BI Desktop. Apress.
@@ -53,4 +54,4 @@ appropriately mapped, where necessary.
 - Negrut, V., 2018.<i> Power bi: Effective data aggregation</i>. Quaestus, 13, pp.146-152.
 - Graves, S.M. and He, L., 2020.<i> Covid-19 Mapping with Microsoft Power BI</i>. Terra Digitalis.
 - Knight, D., Pearson, M., Schacht, B. and Ostrowsky, E., 2020.<i> Microsoft Power BI Quick Start Guide: Bring your data to life through data modeling, visualization, digital storytelling, and more</i>. Packt Publishing Ltd.
-- 
+
