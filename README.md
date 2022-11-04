@@ -1,8 +1,13 @@
 # Reporting & Monitoring
 
 ## More about the Project
-- Microsoft Power BI (Business Intelligence) is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights
+- Microsoft Power BI (Business Intelligence) is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights.
+
 ## Manual for the Project
+- The user must make sure that they have Power BI for Desktop installed in their machine.
+- They can download the report from my GitHub repository.
+- They will open it and start visualizing, there are no credentials needed.
+- Also if they want more information they can alter with the columns to give more insights.
 
 ## Phase 1 - GitHub Administration
 - While I'm undergoing training, I've created and configured my GitHub repository.
