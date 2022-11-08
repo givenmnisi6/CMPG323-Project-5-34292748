@@ -30,6 +30,11 @@ appropriately mapped, where necessary.
 ## Phase 5 - Project Close-out
 - Published it online
 
+## Stretch Task
+I have created a new page called summary that basically checks the number of Categories, Devices and Zones installed in 2021.
+
+<img src="/Images/Stretch.PNG" alt="Stretch Task">
+
 ## Reference List
 
 - Kevin Stratvert (2020, Aug 4).<i> How to use Microsoft Power BI – Tutorial for Beginners </i> [Video]. YouTube https://youtu.be/TmhQCQr_DCA
