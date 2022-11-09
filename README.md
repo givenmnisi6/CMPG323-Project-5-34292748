@@ -28,7 +28,7 @@ appropriately mapped, where necessary.
 - Added a summary view, created a all the visuals and applied filters.
 
 ## Phase 5 - Project Close-out
-- Published it online
+- Published the Power BI report online.
 
 ## Stretch Tasks
 - I applied a background also added some icons to my reports. 
