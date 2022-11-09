@@ -30,7 +30,7 @@ appropriately mapped, where necessary.
 ## Phase 5 - Project Close-out
 - Published it online
 
-## Stretch Task
+## Stretch Tasks
 - I applied a background also added some icons to my reports. 
 - I have created a new page called summary that basically checks the number of Categories, Devices and Zones installed in 2021. 
 - Furthermore I published my Report to my Power BI Workspace.
