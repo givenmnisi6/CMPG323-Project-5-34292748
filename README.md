@@ -4,7 +4,7 @@
 - Microsoft Power BI (Business Intelligence) is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights.
 
 ## Manual for the Project
-- The user must make sure that they have Power BI for Desktop installed in their machine.
+- The user must make sure that they have Power BI for Desktop installed in their machine or alternatively they can use the following link: <a href= "https://app.powerbi.com/links/wsnMyLRpGl?ctid=331c86e7-d032-436f-bc53-f2552d031012&pbi_source=linkShare">Power BI Report</a></li>
 - They can download the report from my GitHub repository.
 - They will open it and start visualizing, there are no credentials needed.
 - Also if they want more information they can use filters.
@@ -39,10 +39,10 @@ appropriately mapped, where necessary.
 <img src="/Images/Stretch.PNG" alt="Stretch Task">
 
 ### Publishing
-<img src="/Images/Publish.PNG" alt="Stretch Task">
+<img src="/Images/Task.png" alt="Task">
 
+<img src="/Images/Publish.PNG" alt="Publish">
 
-<img src="/Images/Task.png" alt="Stretch Task">
 
 ## Reference List
 
