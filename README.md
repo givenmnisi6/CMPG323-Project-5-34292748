@@ -7,7 +7,7 @@
 - The user must make sure that they have Power BI for Desktop installed in their machine.
 - They can download the report from my GitHub repository.
 - They will open it and start visualizing, there are no credentials needed.
-- Also if they want more information they can alter with the columns to give more insights.
+- Also if they want more information they can use filters.
 
 ## Phase 1 - GitHub Administration
 - While I'm undergoing training, I've created and configured my GitHub repository.
@@ -31,9 +31,18 @@ appropriately mapped, where necessary.
 - Published it online
 
 ## Stretch Task
-I have created a new page called summary that basically checks the number of Categories, Devices and Zones installed in 2021.
+- I applied a background also added some icons to my reports. 
+- I have created a new page called summary that basically checks the number of Categories, Devices and Zones installed in 2021. 
+- Furthermore I published my Report to my Power BI Workspace.
 
+### Summary Page
 <img src="/Images/Stretch.PNG" alt="Stretch Task">
+
+### Publishing
+<img src="/Images/Publish.PNG" alt="Stretch Task">
+
+
+<img src="/Images/Task.png" alt="Stretch Task">
 
 ## Reference List
 
